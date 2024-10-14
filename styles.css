@@ -383,6 +383,11 @@ nav ul li a:hover {
   align-items: center;
 }
 
+.foot div {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 @media only screen and (max-width: 768px) {
   .right ul {
     position: absolute;
